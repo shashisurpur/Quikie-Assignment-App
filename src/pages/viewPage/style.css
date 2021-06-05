@@ -1,0 +1,12 @@
+
+.cust_container{
+    margin-top: 6%;
+}
+.card_header{
+    background-color: rgb(229, 229, 241) !important;
+    text-align: center;
+}
+.card_footer{
+    background-color: rgb(229, 229, 241) !important;
+    text-align: center;
+}

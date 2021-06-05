@@ -1,0 +1,64 @@
+
+.table_body{
+    min-height: 300px;
+    max-height: 300px;
+    height: 300px;
+}
+
+.text-center{
+    color:white;
+}
+.card-body{
+    padding: 0% !important; 
+    margin: 0% !important;
+    
+}
+.table_thead{
+    background-color: rgb(229, 229, 241);
+    text-transform: uppercase;
+}
+.table_head{
+    color: blue;
+    border-color: white;
+}
+.pagination_pages{
+
+}
+.pagination_buttons{
+   }
+.pagination_leftArrow{
+    font-size: medium;
+    color: black;
+    font-weight: bolder;
+}
+.pagination_rightArrow{
+     font-size: medium;
+     color: black;
+     font-weight: bolder;
+}
+.pagination_rightArrow:hover, .pagination_leftArrow :hover{
+    font-size: large;
+    color: blue;
+}
+
+.symbol{
+    -ms-flex-item-align: center;
+    background-color: rgb(214, 210, 238);
+    color: rgb(30, 28, 141);
+    border-radius: 20px;
+    font-size: small;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+    width: 68px;
+    height: 28px;
+}
+.symbol .bi{
+    font-size: 20px;
+}
+.pagination li{
+    margin: 4px ;
+}
+.page-item{
+    margin: 4px !important;
+}
